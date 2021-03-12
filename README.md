@@ -10,4 +10,5 @@ Health check at http://localhost:8080/actuator/health
 
 Credit: thanks to https://github.com/Cervator for the contribution of this quickstart
 
-인
+
+
